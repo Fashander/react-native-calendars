@@ -32,7 +32,7 @@ The solution is implemented in JavaScript so no native module linking is require
 
 `import {`[Calendar](#calendar), [CalendarList](#calendarlist), [Agenda](#agenda)`} from 'react-native-calendars';`
 
-All parameters for components are optional. By default the month of current local date will be displayed.
+All parameters for components are optional. By default, the month of current local date will be displayed.
 
 Event handler callbacks are called with `calendar objects` like this:
 
